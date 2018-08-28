@@ -9,7 +9,7 @@ public class Login
 	By email=By.id("email");
 	By pwd =By.id("pass");
 	By log=By.id("send2");
-
+	sysout.
 	public Login(WebDriver driver) 
 	{
 		this.driver = driver;
